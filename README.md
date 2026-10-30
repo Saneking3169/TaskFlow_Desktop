@@ -12,8 +12,8 @@ TaskFlow este un prototip al unei aplicații desktop de tip **Task Manager / To-
 - Prototip Figma (Design, ecrane desktop + prototipare interactivă): *se adaugă după finalizare*
 - Aplicație realizată în Figma Make: https://www.figma.com/make/KfwfIRNTnMfnco6eTy4rQy/Build-TaskFlow-Task-Manager?t=2OmatiWA69kL7Oxj-1
 - Aplicație publicată: https://relax-wind-44056848.figma.site
-- Panou Trello: *se adaugă după creare*
-- Document de cerințe (Google Docs): *se adaugă după creare*
+- Panou Trello (Kanban): https://trello.com/b/BxbwN3pV
+- Document de cerințe (Google Docs): https://docs.google.com/document/d/1FlM3lKqfN-5yew4PrMMzNDNkdSSKd4bU2tH8F1TB5N8/edit
 
 ## Structura proiectului
 ```
