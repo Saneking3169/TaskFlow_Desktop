@@ -9,7 +9,7 @@ TaskFlow este un prototip al unei aplicații desktop de tip **Task Manager / To-
 | Dolgan Alexandru | Coordonator de proiect, designer UI/UX, programator back-end, programator front-end, tester (lucru individual, aprobat de profesoară) |
 
 ## Link-uri
-- Prototip Figma (Design, ecrane desktop + prototipare interactivă): *se adaugă după finalizare*
+- Prototip Figma (Design, 5 ecrane desktop + prototipare interactivă): https://www.figma.com/proto/fPY5BbocvjIHYqdWqpkVKg/TaskFlow-Desktop-Prototype?node-id=1-2&starting-point-node-id=1%3A2&t=Q90uNsAKf56keAvC-1
 - Aplicație realizată în Figma Make: https://www.figma.com/make/KfwfIRNTnMfnco6eTy4rQy/Build-TaskFlow-Task-Manager?t=2OmatiWA69kL7Oxj-1
 - Aplicație publicată: https://relax-wind-44056848.figma.site
 - Panou Trello (Kanban): https://trello.com/b/BxbwN3pV
