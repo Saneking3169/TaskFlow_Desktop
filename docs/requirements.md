@@ -16,17 +16,17 @@ Utilizatori țintă:
 - Prioritizarea sarcinilor (mică, medie, mare).
 - Editarea și ștergerea sarcinilor.
 - Marcarea sarcinilor ca finalizate și bară de progres.
-- Vizualizare calendar (sarcini grupate pe date).
+- Filtre pe listă: Today, Upcoming, All, Completed.
 - Sincronizare între dispozitive prin cont.
 - Setări de profil și deconectare.
 
 ## 3. Cerințe de interfață
-- Layout: fereastră desktop cu bară de titlu, bară de meniu (File, Edit, View, Help), panou de navigare în stânga, zonă principală de conținut, panou de detalii în dreapta și bară de stare în partea de jos.
-- Culori: maximum 3 culori dominante — primară #4F46E5, secundară #0F172A, de accent #F59E0B, plus nuanțe neutre.
-- Tipografie: două fonturi — Poppins pentru titluri, Inter pentru textul de bază; contrast al textului de minimum 4.5:1.
-- Forme: colțuri rotunjite consecvente (12 px pentru carduri și butoane, 8 px pentru câmpuri), grilă de spațiere de 8 px.
-- Navigare: panou lateral cu secțiunile Today, Upcoming, All, Completed, Settings; butonul „+ New task” este mereu accesibil; ferestre modale pentru creare și editare.
-- Elemente UI: de intrare (câmpuri text, selector de dată, listă derulantă, bifă, comutator), de ieșire (carduri de sarcini, etichete de prioritate, bară de progres, notificări) și auxiliare (meniu, navigare, file, containere modale, bară de stare).
+- Layout: fereastră desktop cu panou de navigare în stânga (logo, All tasks, Today, Completed, profil utilizator), antet cu titlul „My Tasks”, bară de căutare și butonul „+ Add task”, lista de sarcini în zona principală; adăugarea și ștergerea apar ca ferestre modale.
+- Culori: maximum 3 culori dominante — primară albastru #2563EB, griuri neutre și roșu #EF4444 (doar pentru Delete și prioritatea High); verde, portocaliu și roșu din insigne sunt culori de stare.
+- Tipografie: un singur font, Inter, cu greutăți diferite pentru ierarhie; contrast al textului de minimum 4.5:1.
+- Forme: colțuri rotunjite consecvente (12 px pentru carduri, 8 px pentru câmpuri și butoane, 16 px pentru ferestre modale).
+- Navigare: panou lateral cu secțiunile All tasks, Today, Completed (aplicația web are în plus Upcoming și Settings); butonul „+ Add task” este mereu accesibil; ferestre modale pentru adăugare și ștergere.
+- Elemente UI: de intrare (câmpuri text, selector de dată, selector de prioritate, bifă), de ieșire (carduri de sarcini, etichete de prioritate, insigne „Done”, mesaje de confirmare) și auxiliare (panou lateral de navigare, containere modale).
 
 ## 4. Cerințe non-funcționale
 - Viteza de reacție: acțiunile frecvente (bifare, adăugare) se reflectă în interfață imediat.

@@ -15,12 +15,7 @@
 - Documentul de cerințe (Google Docs) — 02.11.2026
 
 **Design interfață**
-- Sistem de design: fonturi, culori, componente — 03.11.2026
-- Ecran 1: autentificare / înregistrare — 04.11.2026
-- Ecran 2: fereastra principală cu lista de sarcini — 05.11.2026
-- Ecran 3: fereastra pentru crearea / editarea sarcinii — 05.11.2026
-- Ecran 4: calendar — 06.11.2026
-- Ecran 5: setări / profil — 06.11.2026
+- Ecrane desktop în Figma (5 ecrane: listă, Add task, căutare, ștergere, finalizate) — 06.11.2026
 - Prototipare interactivă în Figma — 07.11.2026
 
 **Funcționalități principale**
