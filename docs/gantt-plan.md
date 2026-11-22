@@ -13,6 +13,6 @@ Termen final: 16.11.2026. Planul a fost realizat în GanttProject (zile lucrăto
 | 7 | Supabase și autentificare | 03.11.2026 | 06.11.2026 | 100% | Back-end |
 | 8 | Gestionarea sarcinilor | 09.11.2026 | 10.11.2026 | 100% | Front-end |
 | 9 | Testare și verificarea regulilor de design | 11.11.2026 | 12.11.2026 | 100% | Tester |
-| 10 | Prezentare finală și predare | 13.11.2026 | 16.11.2026 | 100% | Toate rolurile |
+| 10 | Prezentare finală și predare | 13.11.2026 | 16.11.2026 | în curs | Toate rolurile |
 
 Dependențe păstrate: Figma → Prototipare, Supabase → Gestionarea sarcinilor, Prototipare și Gestionare → Testare, Testare → Prezentare.
