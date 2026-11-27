@@ -29,3 +29,6 @@ Colțuri rotunjite: carduri 12 px, câmpuri și butoane 8 px, ferestre modale 16
 | ![03](03-cautare.png) | 03 Căutare și filtrare |
 | ![04](04-stergere.png) | 04 Ștergere sarcină |
 | ![05](05-finalizate.png) | 05 Sarcini finalizate |
+
+## Panou Trello
+![Panou Trello](06-trello.png)
