@@ -22,4 +22,10 @@ Font: Inter. Culori: albastru primar #2563EB, griuri neutre, roșu #EF4444 doar 
 Colțuri rotunjite: carduri 12 px, câmpuri și butoane 8 px, ferestre modale 16 px. Auto Layout, straturi denumite.
 
 ## Capturi
-Capturile ecranelor se adaugă în acest folder (01-lista.png, 02-add-task.png, 03-cautare.png, 04-stergere.png, 05-finalizate.png).
+| Fișier | Ecran |
+|---|---|
+| ![01](01-lista.png) | 01 Lista de sarcini |
+| ![02](02-add-task.png) | 02 Add task |
+| ![03](03-cautare.png) | 03 Căutare și filtrare |
+| ![04](04-stergere.png) | 04 Ștergere sarcină |
+| ![05](05-finalizate.png) | 05 Sarcini finalizate |
