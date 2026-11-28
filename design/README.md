@@ -32,3 +32,6 @@ Colțuri rotunjite: carduri 12 px, câmpuri și butoane 8 px, ferestre modale 16
 
 ## Panou Trello
 ![Panou Trello](06-trello.png)
+
+## Plan în ClickUp
+![ClickUp](07-clickup.png)
